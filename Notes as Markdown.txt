@@ -1,0 +1,11 @@
+***My Skim notes on '<$fileName.lastPathComponent/>'**
+
+<$notes.@arraySortedByPageIndexAndBounds>
+p<$page.label?><$page.label/><?$page.label?><$pageIndex.numberByAddingOne/></$page.label?>, <$string?>
+<$string/>
+</$string?>
+<$text?>
+<$text/>
+</$text?>
+
+</$notes.@arraySortedByPageIndexAndBounds>
