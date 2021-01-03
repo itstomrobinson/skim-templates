@@ -8,21 +8,21 @@ I customised this template for my own use. I wanted a way of adding simple text 
 
 When taking notes on PDFs, I only use the 'highlight' functionality. I then edit the highlight directly (double click the highlight text in the Notes pane on Skim to edit), and I add my annotation after adding line breaks and Markdown-style indents manually (use ALT+ENTER/TAB to add line breaks and indentations in Skin)
 
-# Example
+# Examples
 
-Example of the unedited text of a new highlight as it appears in Skim:
+## The unedited text of a new highlight as it appears in Skim:
 ```
 Teaching at Oxford is very different to most universities in the UK
 ```
 
-The same text after I've added my annotation (two line breaks, two indents and a hyphen added manually within the app):
+## The same text after I've added my annotation (two line breaks, two indents and a hyphen added manually within the app):
 ```
 Teaching at Oxford is very different to most universities in the UK
 
 		- Here's example note number one.
 ```
 
-Example output text as it appears in Roam:
+## Formatted output text as it appears in Roam:**
 
 **My Skim notes on 'freshers_study_guide_2020.pdf'**
 
